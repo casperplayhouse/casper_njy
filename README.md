@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-(https://github.com/casperplayhouse/casper_njy/blob/main/images/My%20cv%20photo.PNG)
+![alt text](https://github.com/casperplayhouse/casper_njy/blob/main/images/My%20cv%20photo.PNG)
 
 <!-- Add your details -->
 
