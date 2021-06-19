@@ -2,9 +2,9 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+✉️: casnjy@gmail.com 
+&nbsp;&nbsp; 📲 +65-9163 6105
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/casper-ning-2b0906207/) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -12,11 +12,11 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://github.com/casperplayhouse/casper_njy/blob/main/images/My%20cv%20photo.PNG)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Casper Ning__, a full time student with ~6 months of progressive experience in data and analytics. I an currently pursueing my studies with BCG Singapore, hoping to be given the opportunity to land a junior position role to start my new career path journey. I have a graduate degree in fashion and media communication from Goldsmiths University of London.
 
 
 <!-- Add link to the sections -->
