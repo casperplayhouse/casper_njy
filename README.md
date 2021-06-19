@@ -45,8 +45,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Boston Consulting Group
+RISE by Digital BCG Academy, (Business and Data Analytics)
 
 <!-- EDUCATION Section Ends -->
 
