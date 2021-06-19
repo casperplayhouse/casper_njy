@@ -48,6 +48,12 @@ Working on various analytics based cases that facilitates clients for next-gener
 ##### Boston Consulting Group
 RISE by Digital BCG Academy, (Business and Data Analytics)
 
+Completed a 6 months course in Business and Data Analytics 
+
+#### Subjects Learnt 
+
+Python, SQL and Power Bi 
+
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
