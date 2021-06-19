@@ -44,7 +44,17 @@ Working on various analytics based cases that facilitates clients for next-gener
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
-<!-- Add your details -->
+<!-- Boston Consulting Group, Feb 2021 – August 2021
+	RISE by Digital BCG Academy, (Business and Data Analytics)
+
+- Gained business and digital skills including problem solving, slide writing, critical thinking, 
+teamwork, design thinking, user experience (UX/UI), Agile, Power BI, programming in Python 
+and SQL, data visualization and analysis etc.
+
+- Completed multiple business case projects and presentations
+- Attained Top 2 for Business Essentials Project
+= Attained Top 3 for BDA Wave 2 Hackathon project and presenting to NUHS 
+-->
 ##### LNCT Bhopal
 Engineering Graduate 2010-14, First Division
 
